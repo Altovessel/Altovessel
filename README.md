@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Altovessel
-- 👀 I’m interested in backend programming
-- 🌱 I’m currently learning fullstack programming
+- 👀 I’m interested in fullstack programming
+- 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on any coding exercise
 - 📫 How to reach me www.linkedin.com/gbemisola-hannah-ogunmefun
 
